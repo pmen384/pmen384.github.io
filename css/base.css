@@ -143,3 +143,8 @@ div .panel-default>.panel-heading {
 	border-radius: 0;
 	color: #fff;
 }
+/* portImg */
+.portImg {
+  width: 100%;
+  max-width: 285px;
+}
