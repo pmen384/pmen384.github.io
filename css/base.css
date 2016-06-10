@@ -145,7 +145,8 @@ div .panel-default>.panel-heading {
 }
 /* portfolio */
 .portfolioWrap .panel-body {
-  min-height: 230px;
+  color: #000!important;
+  min-height: 300px;
 }
 .portfolioWrap a {
   color: #fff!important;
